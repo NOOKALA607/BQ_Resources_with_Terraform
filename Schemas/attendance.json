@@ -1,0 +1,7 @@
+[
+  
+  { "name": "employee_id", "type": "STRING", "mode": "NULLABLE" },
+  { "name": "login_time", "type": "TIMESTAMP", "mode": "NULLABLE" },
+  { "name": "logout_time", "type": "TIMESTAMP", "mode": "NULLABLE" },
+  { "name": "Date_of_Attendance", "type": "Date", "mode": "NULLABLE" }
+]

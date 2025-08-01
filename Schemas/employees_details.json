@@ -1,0 +1,33 @@
+[
+  {
+    "name": "employee_id",
+    "type": "STRING",
+    "mode": "REQUIRED",
+    "description": "Primary Key"
+  },
+  {
+    "name": "first_name",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "last_name",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "department_id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "job_id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Joined_Date",
+    "type": "DATE",
+    "mode": "NULLABLE"
+  }
+]
